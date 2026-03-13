@@ -3,3 +3,4 @@
 ".env" 
 ".venv/" 
 "*.log" 
+data_lake/raw/jobs_linkedin.csv
